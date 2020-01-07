@@ -1,0 +1,4 @@
+{
+    "address": "Solid State Physics Department, A. F. Ioffe Institute,\n194021 Saint Petersburg, Russia}\n\\date{\\today}\n\\maketitle\n\\begin{abstract}\nWe work out a theory  of shot noise in a special case. This is a\nnoise of the Coulomb drag current excited under the ballistic\ntransport regime in a one-dimensional nanowire by a ballistic\nnon-Ohmic current in a nearby parallel nanowire. We predict\nsharp oscillation of the noise power as a function of gate\nvoltage or the chemical potential of electrons.  We also study\ndependence of the noise on the voltage $V$ across the driving\nwire. For relatively large values of $V$ the spectral density of\nthe low-frequency noise is proportional to $V^2$.\n\\end{abstract}\n\n\\pacs{}\n\\section{Introduction",
+    "author": "V. L. Gurevich and M. I. Muradov"
+}

@@ -1,0 +1,5 @@
+{
+    "address": "Centre for Theoretical Physics,\\\\\nUniversity of Sussex,\\\\\nBrighton BN1 9QH, \n\\\\United Kingdom\\\\E-mail: a.k.rajantie@sussex.ac.uk}\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n% You may repeat \\author \\address as often as necessary      %\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\maketitle\n\n\\abstracts{\nThe real-time dynamics of \nfinite-temperature gauge theories can be approximated,\nto leading-order accuracy in the coupling constants,\nby a classical field theory with the hard thermal loop\nLagrangian.\nI show how this approach can be used in numerical lattice\nsimulations to study dynamics of the Abelian Higgs model in or\nslightly out of equilibrium.\n}\n\n\\section{Hard thermal loops}\nDepending on its details, the electroweak phase transition may\nexplain the observed baryon asymmetry in the \nUniverse.\\cite{ref:baryogenesis}\nAlthough static equilibrium properties such as the phase structure \nof the theory have been determined\nto high accuracy with numerical lattice simulations,\\cite{ref:su2higgs",
+    "author": "A. Rajantie",
+    "title": "\\uppercase{#1}}"
+}

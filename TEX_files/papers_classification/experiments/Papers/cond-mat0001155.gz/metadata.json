@@ -1,0 +1,4 @@
+{
+    "address": "\nNORDITA, Blegdamsvej 17, DK-2100 Copenhagen \\O, Denmark}\n\\date{\\today}\n\\maketitle\n\\begin{abstract}\nWe study theoretically the optics in undoped direct gap semiconductors which are strongly\ndriven in the THz regime. We calculate the optical sideband generation due to nonlinear mixing of\nthe THz field and the near infrared probe. Starting with an inversion symmetric microscopic\nHamiltonian we include the THz field nonperturbatively using non-equilibrium Green function\ntechniques. We find that a self induced relativistic spin-THz field coupling\n locally breaks the inversion symmetry, resulting in the formation of odd sidebands which \notherwise are absent.\n\\end{abstract}\n\\pacs{78.20.Bh,78.20.Jq,42.65.Ky,78.90.+t",
+    "title": "Self induced relativistic effects in THz driven semiconductors"
+}

@@ -1,0 +1,5 @@
+{
+    "address": "Instituto de Ciencia de Materiales de Madrid, \nCSIC,\n28049 Cantoblanco, Madrid, Spain.}\n\n\\date{\\today}\n\n\\maketitle\n\n\\begin{abstract}\n\\baselineskip=2.5ex\nWe perform Monte Carlo simulations to obtain quantitative results for the \nanomalous Hall resistance, $R_A$, observed in colossal magnetoresistance manganites. \n$R_A$ arises from the interaction between the spin \nmagnetization and topological defects via spin-orbit coupling.\nWe study these defects and how they are affected by the spin-orbit \ncoupling within the framework of the double exchange model. \nThe obtained anomalous Hall resistance is, in sign, order of magnitude and shape, \nin agreement with experimental data.     \n\n%\\vspace{0.5truecm}\n\\end{abstract}\n\\pacs  {75.30.Vn, 75.30.Hx, 75.30.Mb}\n]\n\n\n\nDoped perovskite manganites have attracted much attention lately, since \nthey show the so called colossal magnetoresistance\\cite{review",
+    "author": "M.J. Calder\\'on and L. Brey",
+    "title": "Skyrmion Strings and Anomalous Hall Effect in Double Exchange Systems."
+}

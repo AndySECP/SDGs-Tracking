@@ -1,0 +1,5 @@
+{
+    "address": "\\dag Universit\\\"at Potsdam, Fachgruppe Physik, Am Neuen Palais 10, \nD-14469 Potsdam, Germany \\\\\n\\ddag Institut f\\\"ur Theoretische Physik, Universit\\\"at Hannover,\n Appelstr. 2, D--30167 Hannover, Germany}\n\n\n\n\\maketitle\n\n\\begin{abstract}\nWe analyze the multi--time correlations of a laser--induced \nBose--Einstein condensate. We use quantum \nstochastic methods to obtain under certain circumstances \na Fokker--Planck equation which describes the \nphase--difussion process, and obtain an analytical expression \nof the two--time correlations. We \nperform also quantum Monte Carlo numerical simulations of the correlations, \nwhich are in good agreement with the \npredicted analytical results.\n\\end{abstract}\n\\pacs{32.80Pj, 42.50Vk}\n%\\narrowtext\n\n\n\\section{Introduction}\n\nDuring the last years the combination of laser cooling \\cite{Nobel} and evaporative \ncooling methods \\cite{BEC",
+    "author": "Timo Felbinger$^{\\dag}$, Luis Santos$^{\\ddag",
+    "title": "Time correlations of a laser--induced Bose--Einstein condensate"
+}

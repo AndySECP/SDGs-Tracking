@@ -1,0 +1,4 @@
+{
+    "affiliation": "errewacht Leiden, Postbus 9513, 2300 RA Leiden, The Netherlands}\n\\affil{Max-Planck-Institut f\\\"ur Astronomie, K\\\"onigstuhl 17, 69117 \nHeidelberg, Germany\\altaffilmark{2}}\n\n\\author{Hans--Walter Rix}\n\\affil{Max-Planck-Institut f\\\"ur Astronomie, K\\\"onigstuhl 17, 69117 \nHeidelberg, Germany}\n\n\\author{P.~Tim de Zeeuw,}\n\\affil{Sterrewacht Leiden, Postbus 9513, 2300 RA Leiden, The Netherlands}\n\n\\altaffiltext{2}{present address}\n\n%%%%%%%%%%%%%%%\n% Start the abstract on a fresh page\n%%%%%%%%%%%%%%%\n\n\\ifsubmode\\else\n\\clearpage\\fi\n\n%%%%%%%%%%%%%%%\n% Use a small baselineskip, unless in submission mode.\n%%%%%%%%%%%%%%%\n\n\\ifsubmode\\else\n\\baselineskip=14pt\n\\fi\n\n%%%%%%%%%%%%%%%\n% Abstract\n%%%%%%%%%%%%%%%\n\n\\begin{abstract",
+    "author": "Nicolas Cretton"
+}

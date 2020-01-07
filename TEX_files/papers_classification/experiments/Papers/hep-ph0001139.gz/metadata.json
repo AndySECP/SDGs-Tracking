@@ -1,0 +1,5 @@
+{
+    "address": "Department of Physics and Astronomy, \n        University of Rochester \\\\ \n        Rochester NY 14627-0171}%\n        \\thanks{Work supported in part by the U.S. Department of Energy,\nunder grant DE-FG02-91ER40685 and by the U.S. National Science Foundation, \nunder grants PHY-9600155 and PHY-9400059.}\n        and \n        W.J.~Stirling\\address{Departments of Physics and Mathematical Sciences, \n        University of Durham, \\\\\n        Durham DH1 3LE, UK}}\n       \n\\begin{document}\n\n\\begin{abstract}\nThe production of jet pairs at large rapidity difference at hadron \ncolliders is potentially sensitive to BFKL physics.  We present the \nresults of a BFKL Monte Carlo calculation of dijets at the Tevatron.\nThe Monte Carlo incorporates kinematic effects that are absent in analytic\nBFKL calculations; these effects significantly modify the behavior \nof dijet cross sections.\n\\end{abstract",
+    "author": "}\\gdef\\@title{",
+    "title": "\\vspace*{-4\\baselineskip"
+}

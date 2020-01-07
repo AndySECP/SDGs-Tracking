@@ -1,0 +1,5 @@
+{
+    "address": "Instituut-Lorentz, Universiteit Leiden,\nP.O. Box 9506, 2300 RA Leiden, The Netherlands}\n\\author{P. W. Brouwer}\n\\address{Laboratory of Atomic and Solid State Physics,\nCornell University, Ithaca NY 14853, USA}\n\\date{January 2000}\n\\maketitle\n\\begin{abstract}\nThis is a theory for the effect of localization on the super-Poissonian noise\nof radiation propagating through an absorbing disordered waveguide.\nLocalization suppresses both the mean photon current $\\bar{I}$ and the noise\npower $P$, but the Fano factor $P/\\bar{I}$ is found to remain unaffected. For\nstrong absorption the Fano factor has the universal value $1+\\frac{3}{2",
+    "author": "C. W. J. Beenakker and M. Patra",
+    "title": "Photonic excess noise and wave localization"
+}

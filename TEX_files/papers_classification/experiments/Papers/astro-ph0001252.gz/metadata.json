@@ -1,0 +1,4 @@
+{
+    "address": "\\dag\\ Institute for Nuclear Research and Nuclear Energy, \nBulgarian Academy of Sciences, 72 Tzarigradsko Chaussee, 1784 Sofia, Bulgaria}\n\n\\address{\\ddag\\ Institute of Electronics,\nBulgarian Academy of Sciences, 72 Tzarigradsko Chaussee, 1784 Sofia, Bulgaria}\n\n\\begin{abstract}\nThe double and single differential cross-sections with respect to positron\nand electron energies as well as the total cross-section of triplet\nproduction in the laboratory frame are calculated numerically in order to\ndevelop a Monte Carlo code for modelling electron-photon cascades in a soft\nphoton field. To avoid numerical integration irregularities of the\nintegrands, which are inherent to problems of this type, we have used\nsuitable substitutions in combination with a modern powerful program code (%\n\\textit{Mathematica",
+    "author": "V Anguelov\\dag , S Petrov\\dag , L Gurdev\\ddag\\ and J Kourtev\\ddag"
+}

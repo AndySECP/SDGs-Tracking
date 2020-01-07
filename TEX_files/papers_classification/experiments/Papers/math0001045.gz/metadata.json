@@ -1,0 +1,5 @@
+{
+    "address": "Mathematical Institute, 24--29 St Giles', Oxford OX1 3LB. UK}\n\\email{thomas@maths.ox.ac.uk}\n\\thanks{The author is supported by Hertford College, Oxford}\n\n\\subjclass{Primary 18-06, 18E30; Secondary 18G35}\n\\date{6 January 99}\n\n\\begin{abstract}\nIt is becoming increasingly difficult for geometers and even\nphysicists to avoid papers containing phrases like ``triangulated\ncategory'', not to mention derived functors. I will give some\nmotivation for such things from algebraic geometry, and show how the\nconcepts are already familiar from topology. This gives a\nnatural and simple way to look at cohomology and other scary concepts\nin homological algebra like Ext, Tor, hypercohomology and spectral\nsequences.\n\\end{abstract}\n\n\\maketitle\n\n\\section{Introduction}\nI should begin by apologising for the title of this talk\n\\cite{Ma}; while the title is intended for mathematicians the talk itself\nis aimed at least as much at physicists. Kontsevich's mirror symmetry\nprogramme \\cite{K",
+    "author": "R.\\,P. Thomas",
+    "title": "Derived categories for the working mathematician"
+}

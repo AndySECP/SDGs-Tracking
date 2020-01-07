@@ -1,0 +1,5 @@
+{
+    "address": "Max-Planck-Institut f\\\"ur Physik komplexer Systeme\\\\\nN\\\"othnitzer  Str. 38, D 01187 Dresden, Germany \\\\ \ne-mail: olbrich@mpipks-dresden.mpg.de \\\\\ntel.: +49-351-871-1206 \\\\\nfax: +351-871-1199} \n\n\\maketitle\n\n\\begin{abstract}\nWe present a method to derive an upper bound for the\nentropy density of coupled map lattices with local interactions from\nlocal observations. To do this, we use an embedding technique being\na combination of time delay and spatial embedding. This embedding allows\nus to identify the local character of the equations of motion.\nBased on this method we present an approximate estimate of the\nentropy density by the correlation integral.\n\\end{abstract}\n\n\\pacs{05.45.Ra,05.45.Tp,05.45.Jn} \n\\keywords{extensive chaos, entropy, correlation integral}\n\n\\begin{multicols}{2",
+    "author": "Eckehard Olbrich, Rainer Hegger and Holger Kantz",
+    "title": "Local estimates for entropy densities in coupled map lattices"
+}

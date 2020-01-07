@@ -1,0 +1,3 @@
+{
+    "address": "%\n%First address\nInstitute for Astronomy, 2680 Woodlawn Drive, Honolulu, HI 96822, USA\n%\n}\n\\address{%\n% Second Address\nDepartment of Physics, University of Durham, Durham, DH1 3LE, UK\\\\*[-5mm]\n}\n%\\address{%\n% Third Address\n% Here\n%\n%}\n\n\\begin{abstract"
+}

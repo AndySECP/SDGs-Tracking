@@ -1,0 +1,5 @@
+{
+    "address": "Theoretical Division, \nLos Alamos National Laboratory,\nLos Alamos, NM 87545}\n\\thanks[DOE]{Both supported by the U. S. Department of Energy.}\n\n\\begin{abstract}\nWe give a brief discussion of the recently developed Constrained-Path\nMonte Carlo Method. This method is a quantum Monte Carlo technique\nthat eliminates the fermion sign problem plaguing simulations of\nsystems of interacting electrons. The elimination is accomplished by\ntrading an exact procedure for an approximate one that has been\ndemonstrated to give very accurate estimates of energies and many-body\ncorrelation functions. We also give a short review of its\napplications, a discussion of several strategies for parallelizing it,\nand some speculation of its future extensions.\n\\end{abstract}\n\\end{frontmatter}\n\n\n\\section{Introduction",
+    "author": "J. E. Gubernatis and M. Guerrero\\thanksref{DOE}",
+    "title": "Random Walk Beyond Hartree-Fock"
+}

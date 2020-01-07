@@ -1,0 +1,5 @@
+{
+    "affiliation": "inceton University Observatory, Princeton, NJ 08544--1001, USA}\n\\affil{email: bp, pindor@astro.princeton.edu}\n\n\\begin{abstract}\n\nWe selected cepheids from the OGLE database for the Magellanic Clouds\nin the period range $ 10^{1.1} \\le P \\le 10^{1.4} $ days.  There were\n33 objects in the LMC and 35 in the SMC.  We find that the median amplitude\nof cepheids in the LMC is 18\\% larger than in the SMC, a 4 $ \\sigma $ effect.\nThis implies that the period - flux amplitude relation is not universal,\nand cannot be used to measure distances accurately.\n\n\\end{abstract}\n\n\\keywords{\ngalaxies: distances and redshifts --\ngalaxies: Magellanic Clouds --\nstars: cepheids}\n\n%\\section 1\n\\section{Introduction",
+    "author": "Bohdan Paczy\\'nski and Bart Pindor",
+    "title": "OGLE Cepheids have Lower Amplitudes in SMC than in LMC"
+}

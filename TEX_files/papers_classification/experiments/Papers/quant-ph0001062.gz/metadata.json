@@ -1,0 +1,5 @@
+{
+    "address": "Address of first author}\n%        \\address{Address of second author}\n% Use once for each address, use symbols \\dag \\ddag \\S \\P $\\|$\n% to connect authors with addresses\n%\n\\newcommand{\\address}[1]{\\begin{indented}\n   \\item[]\\rm\\raggedright #1\n   \\end{indented}}\n%\n% American Mathematical Society Classification Numbers\n% Usage: \\ams{57.XX, 58.XX}\n%\n\\def\\ams#1{\\vspace{10pt}\n     \\begin{indented}\n     \\item[]\\rm AMS classification scheme numbers: #1\\par\n     \\end{indented}}\n%\n% A single Physics & Astronomy Classification Number\n% Usage \\pacno{31.10}\n%\n\\def\\pacno#1{\\vspace{10pt}\n     \\begin{indented}\n     \\item[]\\rm PACS number: #1\\par\n     \\end{indented}",
+    "author": "Eric A. Galapon\\footnote[3]{email: egalapon@nip.upd.edu.ph}",
+    "title": "\\newpage"
+}

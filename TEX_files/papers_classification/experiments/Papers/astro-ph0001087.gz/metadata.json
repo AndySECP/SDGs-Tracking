@@ -1,0 +1,5 @@
+{
+    "affiliation": "rvard-Smithsonian Center for Astrophysics, 60 Garden St., Cambridge, MA 02138} \n\n\\shorttitle{Models and cluster colors}\n\\shortauthors{Barmby \\& Huchra}\n\n\\begin{abstract}\n\nWe have measured an extensive set of $UBVRIJHK$ colors for M31 globular\nclusters \\citep{b00}. We compare the predicted simple stellar population colors of three \npopulation synthesis models to the intrinsic colors of Galactic and \nM31 globular clusters.\nThe best-fitting models fit the cluster colors very well -- the\nweighted mean color offsets are all $<0.05$ mag.\nThe most significant offsets between model and data are in the $U$ and \n$B$ passbands; these are not unexpected and are likely due to\nproblems with the spectral libraries used by the models.\nThe metal-rich clusters (${\\rm [Fe/H]",
+    "author": "Pauline Barmby \\& John P. Huchra",
+    "title": "Testing population synthesis models with globular cluster colors"
+}

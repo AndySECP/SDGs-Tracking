@@ -1,0 +1,3 @@
+{
+    "address": "Department of Mathematics, Washington University, St. Louis, MO $63130$, USA}\n\\email{borisov@math.wustl.edu}\n%\\date{\\today}\n\\maketitle\n%%%%%%%%%%%%%%%%%%%\n\n%\\centerline{Preliminary version}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\n\\section{Introduction}\n\nIt is pretty well-known that toric Fano varieties of dimension $k$ with terminal singularities correspond to convex lattice polytopes $P \\subset \\R^k$ of positive finite volume, such that $P \\bigcap \\Z^k$ consists of the point $0$ and vertices of $P$ (cf., e.g. \\cite{Bor-Bor}, \\cite{Reid"
+}

@@ -1,0 +1,4 @@
+{
+    "address": "Mathematics Department\\\\\n       University of Illinois \\\\\n        Champaign - Urbana, Illinois 61801}\n\\email{jgmclaug@math.uiuc.edu}\n\\keywords{Pell's equation, Continued Fractions}\n\\subjclass{Primary:11A55}\n\\date{December,11,2000}\n\n\\begin{abstract} \nSolving Pell's equation is of relevance in finding fundamental units in\nreal quadratic fields and for this reason polynomial solutions are \nof interest in that they can supply the fundamental units in infinite \nfamilies of such fields.\n\nIn this paper an algorithm is described which allows one to construct, \nfor each positive integer $n$, a finite collection, $\\{F_{i}\\",
+    "author": "J. Mc Laughlin"
+}

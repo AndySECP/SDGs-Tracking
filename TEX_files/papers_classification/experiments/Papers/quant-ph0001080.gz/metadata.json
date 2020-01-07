@@ -1,0 +1,5 @@
+{
+    "address": "Informatics, University of Wales, Bangor LL57 1UT, UK}\n\n\\maketitle\n\n\\begin{abstract}\n We study a limited set of optical circuits for creating near maximal \n polarisation entanglement {\\em without} the usual large vacuum contribution.\n The optical circuits we consider involve passive interferometers, feed-forward\n detection, down-converters and squeezers. For input vacuum fields we find\n that the creation of maximal entanglement using such circuits is impossible\n when conditioned on two detected auxiliary photons. So far, there have been\n no experiments with more auxiliary photons. Thus, based on the minimum\n complexity of the circuits required, if near maximal polarisation entanglement\n is possible it seems unlikely that it will be implemented experimentally with\n the current resources.\n\\end{abstract",
+    "author": "Pieter Kok and Samuel L.\\ Braunstein",
+    "title": "\\large\\bf Limitations on the Creation of Maximal Entanglement"
+}

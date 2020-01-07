@@ -1,0 +1,4 @@
+{
+    "address": "Instituto de F\\'\\i sica,Universidade Federal  do Rio de Janeiro,\\\\\nCaixa Postal 68528, 21945-970  Rio de Janeiro,\nRJ, Brazil}\n\\date{\\today}\n\\maketitle\n\n\\newcommand{\\beq}{\\begin{equation}}\n\\newcommand{\\eeq}{\\end{equation}}\n\\newcommand{\\ben}{\\begin{eqnarray}}\n\\newcommand{\\een}{\\end{eqnarray}}\n\\newcommand{\\dslash}{\\partial\\!\\!\\!/}\n\\newcommand{\\Dslash}{D\\!\\!\\!\\!/}\n\\def\\ni{\\noindent}\n\n\\begin{abstract",
+    "author": "Everton M. C. Abreu\\thanks{Financially supported by Funda\\c{c"
+}

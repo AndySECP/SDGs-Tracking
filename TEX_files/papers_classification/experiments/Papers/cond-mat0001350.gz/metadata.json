@@ -1,0 +1,5 @@
+{
+    "address": "Laboratoire de Physique Th\\'eorique et Hautes Energies. Universit\\'es Paris\n VI-Pierre et Marie Curie - Paris VII-Denis Diderot, 2 Place Jussieu, 75252 Paris Cedex\n 05, France.}\n\n\n\\vspace{3cm}\n\n\\address{\\mbox{ }}\n\\address{\\parbox{14cm}{{\\rm Frustrated magnets are a notorious example where the usual\n perturbative methods are in conflict. Using a nonperturbative Wilson-like approach, we\n get a coherent picture of the physics of Heisenberg frustrated magnets everywhere between\n $d=2$ and $d=4$. We recover all known perturbative results in a single framework and find\n the transition to be weakly first order in $d=3$. We compute effective exponents in good\n agreement with numerical and experimental data. \n}}}\n\\address{\\mbox{ }}\n\\address{\\parbox{14cm}{\\rm PACS No: 75.10.Hk, 64.60.-i,  11.10.Hi, 11.15.Tk}}\n\n\n\\maketitle\n\\makeatletter\n\\global\\@specialpagefalse\n\\makeatother\n\\vspace{0.5cm",
+    "author": "M. Tissier, B. Delamotte, D. Mouhanna",
+    "title": "Heisenberg frustrated magnets: a nonperturbative approach"
+}

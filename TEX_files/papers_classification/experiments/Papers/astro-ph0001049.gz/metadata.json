@@ -1,0 +1,4 @@
+{
+    "affiliation": "wrence Berkeley National Laboratory, M.S. 50-232, 1 Cyclotron\nRoad, Berkeley, CA 94720}\n\n\\email{galdering, raknop, penugent@lbl.gov}\n\n\\begin{abstract}\n\nWe present a self-consistent comparison of the rise times for low--\nand high--redshift Type Ia supernovae. Following previous studies, the\nearly light curve is modeled using a $t^2$ law, which is then mated\nwith a modified Leibundgut template light curve. The best-fit $t^2$\nlaw is determined for ensemble samples of low-- and high--redshift\nsupernovae by fitting simultaneously for all light-curve parameters\nfor all supernovae in each sample.  Our method fully accounts for the\nnon-negligible covariance amongst the light-curve fitting parameters,\nwhich previous analyses have neglected. Contrary to\n\\citet{riess_evol99",
+    "author": "Greg Aldering, Robert Knop, and Peter Nugent"
+}

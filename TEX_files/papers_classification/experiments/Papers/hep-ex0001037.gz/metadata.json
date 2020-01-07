@@ -1,0 +1,5 @@
+{
+    "address": "Institut f\\\"ur Experimentalphysik, Universit\\\"at Innsbruck,\n6020 Innsbruck, AUSTRIA\\\\\nALEPH Collaboration\\\\\nE-mail: Emmerich.Kneringer@uibk.ac.at} \n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n% You may repeat \\author \\address as often as necessary      %\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\maketitle\\abstracts{\nData collected with the ALEPH detector at centre-of-mass energies\nbetween 130 and 189 GeV are used to search for Higgs bosons\nof the standard model and its supersymmetric extensions.\nNo evidence for a Higgs particle has been found in 256 \\ipb\\ of LEP2 data.\nMass exclusion limits were set.\n}\n\n\\section{Introduction}\\label{sec:intro}\n\nA neutral Higgs boson is required to complete the particle spectrum\nof the standard model. Fits to electroweak data~\\cite{EWWG99}\nfrom LEP, SLC and Tevatron indicate that\nif the Higgs particle exists it has most probably a mass around 100 \\gevcc.\nThe situation at LEP, which is summarized in Fig.~\\ref{fig:smh",
+    "author": "E. KNERINGER",
+    "title": "HIGGS SEARCHES AT LEP2 WITH THE ALEPH DETECTOR"
+}

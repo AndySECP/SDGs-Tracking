@@ -1,0 +1,5 @@
+{
+    "address": "DAMTP,\n  Silver Street, Cambridge,\\\\ CB3 9EW, UK\\\\E-mail:\n  M.J.Lilley@damtp.cam.ac.uk}\n\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n% You may repeat \\author \\address as often as necessary      %\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\maketitle\\abstracts{In first-order phase transitions in the early\n  universe, the bubble wall is expected to be significantly\n  slowed-down by its interaction with the surrounding plasma.  We\n  examine the behaviour of the phase of the Higgs field after\n  two-bubble collisions, and find that phase differences equilibrate\n  much more quickly in slow-moving bubbles than in those which expand\n  at the speed of light.  This could lead to a significant reduction\n  in the initial density of topological defects formed at a\n  first-order phase transition.}\n\n\n\\section{Introduction",
+    "author": "MATTHEW LILLEY",
+    "title": "FIRST-ORDER PHASE TRANSITIONS IN AN EARLY-UNIVERSE ENVIRONMENT"
+}

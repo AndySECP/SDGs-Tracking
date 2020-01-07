@@ -1,0 +1,5 @@
+{
+    "address": "\n\\centerline{Fermi National Accelerator Laboratory, Batavia, Illinois 60510}\n}\n\n%\n% Indicate today's date\n%\n\\date{\\today}\n\n\\maketitle\n\n%\n% ==============> Text of the abstract goes here <=====================\n% \n\\begin{abstract}\nWe have made a precise measurement of the inclusive jet cross section \nat $\\sqrt{s}=1800$~GeV. The result is based on an integrated luminosity \nof 92 pb$^{-1}$ collected at the Fermilab Tevatron $\\overline{p}p$ \nCollider with the D\\O\\ detector. The measurement is reported as a function \nof jet transverse energy ($60$~GeV $\\leq E_{T",
+    "author": "}\\gdef\\@title{}\\let\\address\\relax",
+    "title": "}\\let\\address\\relax"
+}

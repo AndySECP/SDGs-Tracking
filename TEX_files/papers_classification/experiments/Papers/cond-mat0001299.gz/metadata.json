@@ -1,0 +1,3 @@
+{
+    "address": "\nDepartment of Physics and Astronomy, The University, Manchester, M13 9PL, \nUK}\n\n\\date{\\today}\n\n\\maketitle\n\n\n\\begin{abstract}\nWe consider the ordering kinetics of a nonconserved scalar field advected by \na uniform shear flow. Using the Ohta-Jasnow-Kawasaki approximation, \nmodified to allow for shear-induced anisotropy, we calculate the asymptotic \ntime dependence of the characteristic length scales, $L_\\parallel$ and \n$L_\\perp$, that describe the growth of order parallel and perpendicular to \nthe mean domain orientation. In space dimension $d=3$ we find \n$L_\\parallel \\sim \\gamma t^{3/2}$, $L_\\perp \\sim t^{1/2}$, where $\\gamma$ \nis the shear rate, while for $d = 2$ we find \n$L_\\parallel \\sim \\gamma^{1/2"
+}

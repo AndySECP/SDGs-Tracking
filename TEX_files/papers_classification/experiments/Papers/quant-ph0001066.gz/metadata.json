@@ -1,0 +1,5 @@
+{
+    "address": "Optics Section, The Blackett Laboratory, Imperial College,\nLondon SW7 2BW, England}\n\\date{\\today}\n\n\\begin{document}\n\\draft\n\\maketitle\n\\begin{abstract}\nIt is commonly assumed that Shor's quantum algorithm\nfor the efficient factorization of a large number $N$ requires a pure initial\nstate. Here we demonstrate that a single pure qubit together with a collection\nof $log_2 N$ qubits in an arbitrary mixed state is sufficient to implement Shor's\nfactorization algorithm efficiently.\n\\end{abstract}\n\n\n\\pacs{Pacs No: 03.67.-a, 3.67.Lk}\n\n\\begin{multicols}{2}\n\nThe discovery of a quantum algorithm for the efficient\nfactorization of large numbers \\cite{Shor95} has started a rapid\ndevelopment of quantum information processing \\cite{Summary}.\nFollowing this ground-breaking result a number of experimentally\nrealizable proposals for the implementation of quantum computers\nhave been made, for example, in ion trap systems \\cite{Cirac",
+    "author": "S. Parker and M.B. Plenio",
+    "title": "Efficient factorization with a single pure qubit and $log N$ mixed qubits"
+}

@@ -1,0 +1,4 @@
+{
+    "address": "Department of Physics, Kharkov State University, \\\\\n  Svobody Sq., 4, 310077, Kharkov, Ukraine }\n\\jl{1}\n%\\ams{81R20 81R30 81T20}\n%\\pacs{ 04.62.+v 03.65.Pm 11.30.Cp}\n\n\n\\date{}\n%\\maketitle\n\\begin{abstract}\nA system of generalized coherent states for the de Sitter group obeying\nKlein-Gordon equation and corresponding to the massive spin zero particles\nover the de Sitter space is considered. This\n allows us to construct the quantized scalar field by the resolution over\nthese coherent states; the corresponding propagator can be computed by the\nmethod of analytic continuation to the complexified de Sitter space and\ncoincides with expressions obtained previously by other methods. We show that\nthis propagator possess the de Sitter-invariance and causality properties.\n\\end{abstract}\n\n\\section{Introduction",
+    "author": "S A Pol'shin\\ftnote{1}{E-mail: itl593@online.kharkov.ua}"
+}

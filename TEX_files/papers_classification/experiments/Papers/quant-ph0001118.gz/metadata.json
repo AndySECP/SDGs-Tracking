@@ -1,0 +1,5 @@
+{
+    "address": "$^{1}$School of Science, Griffith University, Nathan, Brisbane,\nQueensland 4111 Australia. \\\\\n$^{2}$Institute of Physics and Astronomy, University of Aarhus,\nDK 8000 \\AA rhus C, Denmark.}\n\\maketitle\n\n\\begin{abstract}\nWe analyze signal coherence in the setup of Wang, Zou and Mandel, \nwhere two optical downconverters have indistinct idler modes. \nQuantum interference, caused by indistinguishability of paths, \nhas a visibility proportional to the transmission amplitude between idlers. \nClassical interference, caused by induced emission, may be complete \nfor any finite transmission.\n\n\\end{abstract}\n\\pacs{42.50.Dv, 42.50.Ar, 42.65.Ky}\n\n\\newcommand{\\beq}{\\begin{equation}}\n\\newcommand{\\eeq}{\\end{equation}}\n\\newcommand{\\bqa}{\\begin{eqnarray}}\n\\newcommand{\\eqa}{\\end{eqnarray}}\n\\newcommand{\\nn}{\\nonumber}\n\\newcommand{\\nl}[1]{\\nn \\\\ && {#1}\\,}\n\\newcommand{\\erf}[1]{Eq.~(\\ref{#1",
+    "author": "H.M. Wiseman$^{1,2}$, K. M\\o lmer$^{2}$",
+    "title": "Induced coherence with and without induced emission"
+}

@@ -1,0 +1,5 @@
+{
+    "address": "$^{1}$Department of Physics, Kyoto University, Kyoto 606-8502, \nJapan\\\\\n$^{2}$Institute of Physics, Johannes-Gutenberg University, \nStaudinger Weg 7, D-55099, Germany}\n\\date{\\today}\n\\maketitle\n\n\\begin{abstract}\n\nWe investigate to what extend the replica-exchange Monte Carlo method\nis able to equilibrate a simple liquid in its supercooled state. We find\nthat this method does indeed allow to generate accurately the canonical\ndistribution function even at low temperatures and that its efficiency\nis about 10-100 times higher than the usual canonical molecular dynamics\nsimulation.\n\n\\end{abstract}\n\n\\pacs{PACS numbers: 02.70.Lq, 02.70.Ns, 65.20.+w, 61.43.Fs}\n\n\\begin{multicols}{2",
+    "author": "Ryoichi Yamamoto$^{1}$ and Walter Kob$^{2}$",
+    "title": "Replica-exchange molecular dynamics simulation for supercooled liquids"
+}

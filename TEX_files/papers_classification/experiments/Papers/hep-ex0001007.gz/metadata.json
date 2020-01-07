@@ -1,0 +1,5 @@
+{
+    "address": "$^1$Physics Department,\n             Brown University, 182 Hope St, Providence, RI 02912\\\\\n         $^2$Theoretical Physics Department,\n             Fermi National Accelerator Laboratory, Batavia, IL 60510}\n\n\\maketitle\n\n\\begin{abstract}\nWe evaluate the prospects for detecting a non-standard light\nHiggs boson with a significant branching ratio to two photons,\nin the Run II of the Fermilab Tevatron. We derive the reach\nfor several channels: $2\\gamma$ inclusive, $2\\gamma+1$ jet,\nand $2\\gamma+2$ jets. We present the expected Run II limits\non the branching ratio of $h\\rightarrow\\gamma\\gamma$\nas a function of the Higgs mass, for the case of ``bosonic'',\nas well as ``topcolor'' Higgs bosons.\n\\end{abstract}\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\section*{Motivation",
+    "author": "Greg Landsberg$^1$ and Konstantin T.~Matchev$^2$",
+    "title": "Discovering a Light Higgs Boson with Light"
+}

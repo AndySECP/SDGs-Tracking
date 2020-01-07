@@ -1,0 +1,5 @@
+{
+    "address": "}\\gdef\\@author{}\\gdef\\@title{}\\let\\address\\relax}\n\n\\def\\justify@on{\\let\\\\=\\@normalcr\n  \\leftskip\\z@ \\@rightskip\\z@ \\rightskip\\@rightskip}\n\n\\newbox\\fm@box                    % Box to capture front-matter in\n\n\\def\\@maketitle{%                 % Actual formatting of \\maketitle\n  \\global\\setbox\\fm@box=\\vbox\\bgroup\n    \\vskip 8mm                    % 930715: 8mm white space above title\n    \\raggedright                  % Front-matter text is ragged right\n    \\hyphenpenalty\\@M             % and is not hyphenated.\n    {\\Large \\@title \\par}         % Title set in larger font. \n    \\vskip\\@bls                   % One line of vertical space after title.\n    {\\normalsize                  % each author set in the normal \n     \\@author \\par",
+    "author": "}\\gdef\\@title{}\\let\\address\\relax",
+    "title": "}\\let\\address\\relax"
+}

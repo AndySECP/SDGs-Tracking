@@ -1,0 +1,5 @@
+{
+    "address": "Physics Department, Syracuse University, Syracuse, NY 13244}\n\n\\begin{keyword}Vortex matter, hydrodynamics, Bose glass, tilt modulus.\n%PACS: \n\\end{keyword}\n\n\\begin{abstract}\n{\\it Nonlinear} hydrodynamics is used to evaluate disorder-induced \ncorrections to the vortex liquid tilt modulus for {\\it finite} screening length\nand arbitrary disorder geometry. Explicit results for aligned columnar defects yield a criterion for locating the Bose glass transition line at \nall fields.\n\\end{abstract}\n\\thanks[GRANT]{Partially supported by the National Science Foundation through grants \nNo. DMR97-30678 and DMR98-05818.}\n\n\\end{frontmatter}\n\n\nThe vortex phase diagram of high temperature superconductors shows a rich diversity of phases,\nincluding vortex lattices, liquids and glasses.\nNovel types of glasses are also possible because of pinning in \ndisordered samples (for a review, see Refs. \\cite{CN97,BLATTER94,CRABTREE98",
+    "author": "Panayotis Benetatos\\thanksref{GRANT}",
+    "title": "A hydrodynamic approach to the Bose-Glass transition"
+}

@@ -1,0 +1,5 @@
+{
+    "address": "First Author: Mathematics Department, University of\nChicago.\\\\\n Second author: Mathematics Department, University of\nManchester and\n  Mathematics Department, Temple University}\n%%\\curraddr{UMR 7640 du C.~N.~R.~S., Centre de Math{\\'e}matiques, %%\n%%{\\'E}cole Polytechnique, 91128 Palaiseau CEDEX, France}%% \n\n\\email{rivin@ma.man.ac.uk\\\\jakobson@math.uchicago.edu}\n\n\\thanks{I.~Rivin would like to thank the \\'Ecole Polytechnique for\nits hospitality during the preparation of this paper. D.~Jakobson was \npartially supported by the NSF}\n\n\\date{\\today}\n\n\n\\keywords{graphs, extremal graph theory, deformation theory, uniformization}\n\n%\\subjclass{Primary 05C35, 05C12, 26D20}\n\\begin{abstract",
+    "author": "Dmitry Jakobson \\and Igor Rivin",
+    "title": "Extremal metrics on graphs I"
+}

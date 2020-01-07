@@ -1,0 +1,3 @@
+{
+    "address": "%\n%First address\n SISSA Via Beirut 2-4, I34014, Trieste, Italy\n%\n}\n\\address{%\n% Second Address\nIstituto di Fisica Cosmica, CNR, via Bassini 15, I20133, \nMilano, Italy\n}\n\\address{%\n% Third Address\n% Here\nDipartmento di Fisica dell' Universit\\`a di Milano-BICOCCA,\n    Via Celoria 16, I20133, Milano, Italy\n%\n}\n\\address{%\nINFN -- Sezione di Milano, Italy\n}\n\n\\begin{abstract}\nA large set of TREESPH simulations is used to test\nthe global morphology of galaxy clusters and its evolution\nagainst X--ray data. A powerful method to investigate\nsubstructures in galaxy clusters are the\n{\\it power ratios"
+}

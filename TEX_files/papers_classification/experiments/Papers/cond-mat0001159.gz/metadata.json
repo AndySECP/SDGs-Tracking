@@ -1,0 +1,4 @@
+{
+    "address": "$^1$Atomistic Simulation Group, School of Mathematics and Physics, \nThe Queen's University of Belfast, Belfast BT7 1NN, Northern Ireland, UK} \n\\address{$^2$The University of Texas at Austin, Department of Physics,Austin, \nTexas 78712-1081} \n \n\\maketitle  \n \n \n\\begin{abstract}\n\nWe derive a formula, useful for first-principles calculations, which\nrelates the free energy of an oxide/metal interface to the free\nenergies of  surfaces and the work of separation of the interface.  We\ndistinguish the latter {\\it mechanical} quantity from the {\\it\nthermodynamic} work of adhesion, and we describe explicitly how both\nmay be calculated.  Our formulae for interfacial and surface energies\nare cast in terms of quantities which can be calculated or looked up in\ntables, and include as additional parameters the ambient temperature\nand partial pressure of oxygen $P_{O_2",
+    "author": "Iskander G. Batirev$^{1,2"
+}

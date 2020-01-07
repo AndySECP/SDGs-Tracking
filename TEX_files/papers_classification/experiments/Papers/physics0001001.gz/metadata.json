@@ -1,0 +1,4 @@
+{
+    "author": "\\@ifnextchar [{\\@authortwo}{\\@authorone}",
+    "title": "#1}\\thispagestyle{titlepage"
+}

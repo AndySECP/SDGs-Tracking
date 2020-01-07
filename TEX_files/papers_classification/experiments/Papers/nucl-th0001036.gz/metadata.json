@@ -1,0 +1,5 @@
+{
+    "address": "$^{1}$~Racah Institute of Physics, The Hebrew University,\nJerusalem 91904, Israel}\n\\address{$^{2}$~Theoretical Division, Los Alamos National Laboratory, Los\nAlamos, New Mexico 87545}\n\\address{$^{3}$Institute for Nuclear Theory, University of Washington, \nBox 351550, Seattle, WA 98195}\n%\\date{\\today}\n\\maketitle\n\n\\begin{abstract}\nWe use the empirical evidence that F-spin multiplets exist in nuclei for \nonly selected states as an indication that F-spin can be regarded as \na partial symmetry.\nWe show that there is a class of non-F-scalar IBM-2 \nHamiltonians with partial F-spin symmetry, which reproduce the known \nsystematics of collective bands in nuclei.  \nThese Hamiltonians predict that the scissors states have good F-spin and \nform F-spin multiplets, which is supported by the existing data.  \n\\end{abstract}\n\\vspace{12pt}\n\\pacs{21.60Fw, 21.10.Re, 21.60.Ev, 27.70.+q",
+    "author": " A. Leviatan$^{1,2,3}$ and J.N. Ginocchio$^{2,3}$",
+    "title": "F-spin as a Partial Symmetry"
+}

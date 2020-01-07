@@ -1,0 +1,5 @@
+{
+    "address": "}  \\def\\@title{} \\def\\@date{} \\def\\@preprint{}\n\\def\\and{\\unskip, }\n\n\\def\\preprint#1{%\n\\ifpreprintsty\n\\def\\@preprint{\\noindent\\hfill\\hbox{#1}\\vskip 10pt}%\n\\fi\n}\n\n\\def\\title#1{\\gdef\\@title{{\\large\\bf\\centering\\ignorespaces#1\\vskip2.5pt}}}\n\n\n\\def\\author#1{\\expandafter\\def\\expandafter\\@authoraddress\\expandafter\n{\\@authoraddress %\n\\ifpreprintsty\\vskip1.5pc \\fi %\n{\\dimen0=-\\prevdepth \\advance\\dimen0 by23pt\n\\nointerlineskip \\rm\\centering\n\\vrule height\\dimen0 width0pt\\relax\\ignorespaces#1\\par\n}%\n}%\n}\n\n\\def\\address#1{\\expandafter\\def\\expandafter\\@authoraddress\\expandafter\n{\\@authoraddress{\\small\\it\\centering\\ignorespaces#1\\par}}",
+    "author": "R. D. Pinto$^1$, P. Varona$^{1,2}$, A. R. Volkovskii$^1$, A. Sz\\\"ucs$^1$,",
+    "title": "} \\def\\@date{} \\def\\@preprint{"
+}

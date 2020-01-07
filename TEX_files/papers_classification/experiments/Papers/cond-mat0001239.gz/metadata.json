@@ -1,0 +1,5 @@
+{
+    "address": "Institute for Solid State Physics, University of Tokyo, \n7-22-1 Roppongi, Minato-ku, Tokyo 106-8666, Japan}\n%%%%%%%%%%%%%%%%%%%%%%%%% date %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\date{\\today}\n\\maketitle\n%%%%%%%%%%%%%%%%%%%%%%%%% Abstract %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\begin{abstract}\nWe study the effect of correlation on the Bragg reflection in the 3D \nelectron gas, the 1D Luttinger liquid, and the 1D Hubbard model in \nan alternating periodic potential at half-filling. In the last \nsystem, we suggest a Luttinger-liquid-type quasi-metallic state in \nthe crossover region from the band insulator to the Mott insulator. \nWe explain the appearance of this state in terms of the \nincompatibility of the Bragg reflection with the concept of \nLuttinger liquids. \n\\end{abstract",
+    "author": "Yasutami Takada and Manabu Kido",
+    "title": "Effect of Electron Correlation on the Bragg Reflection"
+}

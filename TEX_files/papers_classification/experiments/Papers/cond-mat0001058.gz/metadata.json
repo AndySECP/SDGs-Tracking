@@ -1,0 +1,4 @@
+{
+    "address": "\nDept. of Physics,\nBrookhaven National Laboratory,\nUpton, NY  11973-5000}\n\\date{\\today}\n\\maketitle \n\n\\begin{abstract}\n\n\nThe one-dimensional electron gas exhibits spin-charge separation and \npower-law spectral responses to many experimentally relevant probes.  \nOrdering in a quasi one-dimensional system is\nnecessarily associated with a dimensional crossover, \nat which sharp quasiparticle\npeaks, with small spectral weight, emerge from the incoherent background.  \nUsing methods of Abelian bosonization, we\nderive asymptotically correct expressions for the spectral changes \ninduced by this crossover. Comparison is made with experiments on the \nhigh temperature superconductors, which are electronically quasi \none-dimensional on a local scale. \n\n\n\\end{abstract}\n\n\\begin{multicols}{2}\n\n%\\section{Introduction}\n%\\label{sec:intro",
+    "author": "E.~W.~Carlson,  D.~Orgad"
+}

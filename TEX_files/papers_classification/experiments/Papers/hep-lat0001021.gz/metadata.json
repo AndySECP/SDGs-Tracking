@@ -1,0 +1,4 @@
+{
+    "address": "Newman Laboratory, Cornell University, Ithaca, NY 14853, USA \\\\\n           and \\\\\n    Institut f\\\"ur Physik der Johannes-Gutenberg-Universit\\\"at, \\\\\n  Staudingerweg 7, D-55099 Mainz, Germany\n       }\n\\author{Junko Shigemitsu}\n\\address{Physics Department, The Ohio State University,\n  Columbus, OH 43210, USA}\n%\\date{DRAFT--January, 2000.}\n\\maketitle\n\n\\begin{abstract}\nOne-loop corrections to the \nfermion rest mass $M_1$, wave function renormalization \n$Z_2$ and speed of light renormalization $C_0$ are presented for lattice \nactions that combine improved glue with clover or D234 quark actions \nand keep the temporal and spatial lattice spacings, $a_t$ and $a_s$, distinct.\nWe explore a range of values for the anisotropy parameter\n $\\chi \\equiv a_s/a_t$ \n and treat both massive and massless fermions.\n\\end{abstract",
+    "author": "Stefan Groote"
+}

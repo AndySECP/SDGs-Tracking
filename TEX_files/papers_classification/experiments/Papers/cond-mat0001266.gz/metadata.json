@@ -1,0 +1,5 @@
+{
+    "address": "$^a$GISC, Departamento de F\\'{\\i}sica de Materiales, Universidad\\\\\nComplutense, E-28040 Madrid, Spain\\\\\n$^b$Yerevan Physics Institute, Br.\\ Alikhanian str.\\ 2, Armenia\\\\\n$^c$Yerevan State University, Armenia}\n\\date{\\today}\n\\maketitle\n\n\\begin{abstract}\nWe present a model for alloys of compound semiconductors by introducing a\none-dimensional binary random system where impurities are placed in one\nsublattice while host atoms lie on the other sublattice. The source of disorder\nis the stochastic fluctuation of the impurity energy from site to site.\nAlthough the system is one-dimensional and random, we demonstrate analytical\nand numerically the existence of extended states in the neighborhood of a given\nresonant energy, which match that of the host atoms.\n\\end{abstract}\n\n\\pacs{PACS numbers: 73.20.Jc, 73.61.Ph, 73.20.Dx, 72.20.$-$i}\n\n\\narrowtext\n\n\\section{Introduction",
+    "author": "F.\\ Dom\\'{\\i}nguez-Adame$^a$, I.\\ G\\'{o",
+    "title": "Electron states in aone-dimensional random binary alloy"
+}

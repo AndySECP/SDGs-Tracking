@@ -1,0 +1,5 @@
+{
+    "address": "$^1$Group of Applied Physics, University of Geneva, CH-1211,\nGeneva 4, Switzerland\\\\\n$^2$Department of Physics, Technion---Israel Institute of Technology,\n32000 Haifa, Israel}\n\n\\maketitle\n\\begin{abstract}\nWe consider quantum cryptographic schemes where the carriers of\ninformation are 3-state particles. One protocol uses four mutually\nunbiased bases and appears to provide better security than\nobtainable with 2-state carriers. Another possible method allows quantum\nstates to belong to more  than one basis. The security is not better,\nbut many curious features arise. \\end{abstract}\n\n\\bigskip\n\\pacs{PACS numbers: 03.67.-a, 03.67.Dd, 03.65.Bz",
+    "author": "Helle Bechmann-Pasquinucci$^1$ and Asher Peres$^2$",
+    "title": "Quantum cryptography with 3-state systems"
+}
