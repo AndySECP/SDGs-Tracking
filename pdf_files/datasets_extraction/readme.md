@@ -14,3 +14,16 @@ The papers used here are extracted from aminer.
 - Leveraging PyPDF4, a parser look at each page of this pdf and extract the ones with mention of 'data' or 'dataset[s]'
 - Those pages are saved as json in a separate folder 
 - The pdf is deleted
+
+### Labeling part of the pages extracted
+
+To build a binary classifier (whether or not the page contains relevant dataset mention), we first hand label a subset of those pages.
+
+### Binary classifier
+
+Then, we build a binary classifier on top of those labeled examples to extrapolate those labels to the rest of the dataset
+- TF-IDF + Random Forest Classifier
+- Word Embedding + Random Forest Classifier
+- Adding Text / NLP based features
+
+### Active Learning
