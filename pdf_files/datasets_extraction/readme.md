@@ -27,3 +27,10 @@ Then, we build a binary classifier on top of those labeled examples to extrapola
 - Adding Text / NLP based features
 
 ### Active Learning
+
+Active Learning is leveraged to enlarge the set of labeled data and enable the model to reach better accuracy.
+
+### Named Entity Recognition
+
+A Named Entity Recognition Model (NER) is then run is order to identify the names of the datasets. It is done leveraging the [prodigy](https://prodi.gy/) annotation library.
+ 
