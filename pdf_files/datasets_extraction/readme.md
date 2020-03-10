@@ -27,3 +27,5 @@ Then, we build a binary classifier on top of those labeled examples to extrapola
 - Adding Text / NLP based features
 
 ### Active Learning
+
+Active Learning is leveraged to enlarge the set of labeled data and enable the model to reach better accuracy.
