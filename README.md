@@ -22,6 +22,16 @@ Extract datasets that are relevant to the SDG Goals from research papers. Identi
 
 Extract and classify all papers that are relevant and help to advance towards the 17 SDG Goals of the United Nation. Then, identify trends in the development of research towards those goals and observe the evolution. Finally, identify direction to move forwards in order to meet the objectives for 2030.
 
+### 3. Pipeline
+
+1. Data Preprocessing to extract papers with dataset mention
+2. Manual data annotation in Prodigy
+3. Pretraining different models of identification of dataset names (NER)
+4. Labelling more data by correcting the predictions of the top model trained in the previous step
+5. Back to #3 and pretrain an updated model with the enriched labeled dataset
+6. Iterated to end up with a good enough model
+  7. On top of this, train a 17-classes classification model of the datasets (to assign each dataset to the corresponding SDGs - could be several ones for a single dataset) [also leveraging manual annotation in Prodigy]
+
 ## Resources
 
 
