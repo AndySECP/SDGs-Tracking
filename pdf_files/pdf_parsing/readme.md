@@ -18,6 +18,12 @@ python paper_processing.py -p '' -i 'PDFs/' -o 'samples_with_keywords' -t 8
 
 This file serialize the information into one jsonl file that could be used for annotation with the Prodigy library.
 
+**Python call**:
 ```python
 python prodigy_processing.py -p {path to access the directory that contains the docs created by the script above} -t {number of threads} -n {name we want to give to the generated file}
+```
+
+**Example**:
+```python
+python prodigy_preprocessing.py -p 'samples_with_keywords/'
 ```
