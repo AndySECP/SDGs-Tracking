@@ -14,5 +14,5 @@ python paper_processing.py -p {path to access the directory} -i {input dir} -o {
 This file serialize the information into one jsonl file that could be used for annotation with the Prodigy library.
 
 ```python
-python prodigy_processing.py -p {path to access the directory with the doc with keywords} -t {number of threads} -n {name we want to give to the generated file}
+python prodigy_processing.py -p {path to access the directory that contains the docs created by the script above} -t {number of threads} -n {name we want to give to the generated file}
 ```
