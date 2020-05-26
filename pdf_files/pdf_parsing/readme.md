@@ -4,13 +4,13 @@ This section is parsing the PDF file to extract useful information concerning th
 ## Paper Processing
 
 This file parse the pdf paper, break it down by paragraph and save those that include one of the keywords in a json file.
-\\
+
 **Python call**:
 ```python
 python paper_processing.py -p {path to access the directory} -i {input dir} -o {output dir} -t {number of threads}
 ```
-\\
-**Exampe**:
+
+**Example**:
 ```python
 python paper_processing.py -p '' -i 'PDFs/' -o 'samples_with_keywords' -t 8
 ```
